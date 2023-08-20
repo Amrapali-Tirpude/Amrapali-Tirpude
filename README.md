@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amrapali-Tirpude
 - 👀 I’m interested in linux , aws , ansible  and devops.
 - 🌱 I’m currently learning aws and devops
-- 💞️ I’m looking to collaborate on n/a
+- 💞️ I’m looking to collaborate on as aws engineer.
 - 📫 How to reach me www.linkedin.com/in/amrapali-t05
 
 
